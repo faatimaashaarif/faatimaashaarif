@@ -1,7 +1,7 @@
 ![Header Banner](github-header-banner.png)
 
 
-### - 🔭 I’m currently working on a ** Health tracker API**
+### - 🔭 I’m currently working on a **Health tracker API**
 
 ### - 👯 I’m looking to collaborate on **microservices**
 
