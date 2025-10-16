@@ -1,4 +1,4 @@
-![Header Banner] (github-header-banner.png)
+![Header Banner] (./faatimashaarif/github-header-banner.png)
 
 ### - 🔭 I’m currently working on a ** Health tracker API**
 
