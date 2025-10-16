@@ -1,4 +1,3 @@
-![Header](file:///Users/fatimasharif/Downloads/github-header-banner.png)
 
 
 ### - 🔭 I’m currently working on a ** Health tracker API**
